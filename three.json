@@ -13,7 +13,7 @@
 		"order": 190000,
 		"parentChapterId": 407,
 		"type": 0,
-		"userControlSetTop": true,
+		"userControlSetTop": false,
 		"xiaomi": false,
 		"vivo": false,
 		"sanxing": false,
@@ -27,7 +27,7 @@
 		"wandoujia": false,
 		"baidu": false,
 		"amazon": false,
-		"visible": 1,
+		"visible": 0,
 		"versionCode": 580,
 		"versionName": "5.8.0"
 	},
